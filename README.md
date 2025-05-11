@@ -1,9 +1,8 @@
-# 👨🏽‍💻 Miguel Ferreira
+# 👨 Henrique Lopes Borges
 
-**`Engenheiro de Software`**
+**`Ciência da Computação`**
 
-Me chamo Miguel Ferreira, tenho 18 anos e sou natural de Brasília. Concluí o ensino médio no Colégio Adventista, com certificado de aluno exemplar. Atualmente, estou cursando Engenharia de Software no CEUB. Sou apaixonado por tecnologia desde pequeno e tenho essa área como a essencial para mim!
-
+Olá meu nome é Henrique Lopes sou estudante de ciência da computação pelo (Uniceub). Apaixonado por T.I desde pequeno principalmente por cyber security.
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -14,9 +13,6 @@ Me chamo Miguel Ferreira, tenho 18 anos e sou natural de Brasília. Concluí o e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-
-
 
  ## ­
 
